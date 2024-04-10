@@ -1,6 +1,6 @@
-# Stanvic Concept Website
+# Stanvic Concept Landing Page
 
-Bootstrap website for Web Development, Showmax Subscriptions, Journal/Book Recording, etc. It has a mixed design with both light and dark colors and a modern look.
+Stanvic Concept bootstrap landing page for Web Development, Showmax Subscriptions, Journal/Book Recording, etc. It has a mixed design with both light and dark colors and a modern look.
 
 <img src="./images/screen.png" />
 
