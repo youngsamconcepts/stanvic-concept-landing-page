@@ -8,5 +8,13 @@ function userScroll() {
       navbar.classList.remove('bg-dark');
     }
   });
+  window.addEventListener('DOMContentLoaded', () => {
+    if (window.scrollY > 10) {
+      navbar.classList.add('bg-dark');
+    } else {
+      navbar.classList.remove('bg-dark');
+    }
+  });
 }
+
 document.addEventListener('DOMContentLoaded', userScroll);
